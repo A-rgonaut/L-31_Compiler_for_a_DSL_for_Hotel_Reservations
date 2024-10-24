@@ -1,4 +1,4 @@
-# Progetto-Compilatori-2022-2023
+# L-31-2023-Progetto-Compilatori
 UNIPA - Corso di laurea triennale in Informatica (2086)
 
 Compilatori A.A 2022/2023 - Prof.ssa Mantaci
